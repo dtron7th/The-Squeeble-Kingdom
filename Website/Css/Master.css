@@ -1,0 +1,10 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Market_Font";
+}
+
+@font-face {
+    font-family: Market_Font;
+    src: url(/Fonts/SUSE/SUSE-VariableFont_wght.ttf);
+}
